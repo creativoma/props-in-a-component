@@ -1,5 +1,5 @@
 import img1 from './images/phone-icon.png'
-import img2 from './images/phone-icon.png'
+import img2 from './images/mail-icon.png'
 
 
 export default function Contact(props) {
